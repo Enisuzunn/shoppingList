@@ -17,6 +17,7 @@
 		9226E69D2C6F6C8900A2C0FD /* AlisverisListesiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9226E69C2C6F6C8900A2C0FD /* AlisverisListesiTests.swift */; };
 		9226E6A72C6F6C8900A2C0FD /* AlisverisListesiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9226E6A62C6F6C8900A2C0FD /* AlisverisListesiUITests.swift */; };
 		9226E6A92C6F6C8900A2C0FD /* AlisverisListesiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9226E6A82C6F6C8900A2C0FD /* AlisverisListesiUITestsLaunchTests.swift */; };
+		9226E6B62C6F8E2F00A2C0FD /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9226E6B52C6F8E2F00A2C0FD /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9226E6A22C6F6C8900A2C0FD /* AlisverisListesiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlisverisListesiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9226E6A62C6F6C8900A2C0FD /* AlisverisListesiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlisverisListesiUITests.swift; sourceTree = "<group>"; };
 		9226E6A82C6F6C8900A2C0FD /* AlisverisListesiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlisverisListesiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9226E6B52C6F8E2F00A2C0FD /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9226E6822C6F6C8800A2C0FD /* AppDelegate.swift */,
 				9226E6842C6F6C8800A2C0FD /* SceneDelegate.swift */,
 				9226E6862C6F6C8800A2C0FD /* ViewController.swift */,
+				9226E6B52C6F8E2F00A2C0FD /* DetailsViewController.swift */,
 				9226E6882C6F6C8800A2C0FD /* Main.storyboard */,
 				9226E68E2C6F6C8900A2C0FD /* Assets.xcassets */,
 				9226E6902C6F6C8900A2C0FD /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				9226E6872C6F6C8800A2C0FD /* ViewController.swift in Sources */,
 				9226E6832C6F6C8800A2C0FD /* AppDelegate.swift in Sources */,
 				9226E6852C6F6C8800A2C0FD /* SceneDelegate.swift in Sources */,
+				9226E6B62C6F8E2F00A2C0FD /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
